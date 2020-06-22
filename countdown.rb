@@ -11,5 +11,5 @@ def countdown(seconds_to_midnight)
 end
 
 def countdown_with_sleep 
-  
+  while countdown_with_sleep
 end
